@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s4s9OPtnLk3GC3+1hkaeZ00mV2aZabT1KJsGC86+29k=",
+  "Source": "LowResourceServers",
+  "BasePath": "_content/LowResourceServers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
